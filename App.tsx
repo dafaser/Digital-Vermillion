@@ -153,12 +153,12 @@ const HeroSection: React.FC = () => {
         <section id="home" className="relative min-h-screen flex items-center justify-center text-center overflow-hidden pt-20">
             <div className="relative z-10 p-4">
                 <div 
-                    className="absolute inset-0 bg-black/10 backdrop-blur-xl rounded-3xl border border-white/20 transition-transform duration-500"
-                    style={{ transform: `translateY(${offsetY * 0.1}px)` }}
+                    className="absolute inset-0 bg-black/10 backdrop-blur-xl rounded-3xl border border-white/20"
+                    style={{ transform: `translateY(${offsetY * 0.3}px)` }}
                 ></div>
                 <div 
-                    className="relative p-8 md:p-16 transition-transform duration-500"
-                    style={{ transform: `translateY(-${offsetY * 0.05}px)` }}
+                    className="relative p-8 md:p-16"
+                    style={{ transform: `translateY(-${offsetY * 0.15}px)` }}
                 >
                     <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 tracking-tight">
                         {content.hero.headline}

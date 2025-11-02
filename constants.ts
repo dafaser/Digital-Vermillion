@@ -12,8 +12,8 @@ export const content = {
       contact: "Contact",
     },
     hero: {
-      headline: "Build Your Website with Confidence and Style.",
-      subheadline: "We create elegant, responsive, and affordable websites that bring your brand to life.",
+      headline: "Empowering Your Business with Digital & Legal Solutions",
+      subheadline: "Delivering seamless digital experiences and reliable legal support to help your business grow with confidence.",
       ctaPrimary: "Build Your Own Website Business Now 🚀",
       ctaPrimaryMobile: "Build Now 🚀",
       ctaSecondary: "View Portfolio",
@@ -81,8 +81,8 @@ export const content = {
       contact: "Kontak",
     },
     hero: {
-      headline: "Bangun Website Anda dengan Percaya Diri dan Gaya.",
-      subheadline: "Kami menciptakan website yang elegan, responsif, dan terjangkau untuk menghidupkan merek Anda.",
+      headline: "Memberdayakan Bisnis Anda dengan Solusi Digital & Hukum",
+      subheadline: "Memberikan pengalaman digital yang mulus dan dukungan hukum yang andal untuk membantu bisnis Anda tumbuh dengan percaya diri.",
       ctaPrimary: "Bangun Bisnis Website Anda Sekarang 🚀",
       ctaPrimaryMobile: "Bangun Sekarang 🚀",
       ctaSecondary: "Lihat Portofolio",

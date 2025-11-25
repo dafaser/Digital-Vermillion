@@ -39,7 +39,7 @@ export const content = {
         {
           name: "Nichi Hose Indonesia",
           category: "Business Distributor Japan",
-          url: "https://nichinichi.unaux.com/nichi-hose/",
+          url: "https://nichirin.id/",
           image: nichiHoseImage
         },
         {
